@@ -16,8 +16,8 @@ Hi there! this repository shows my progress in summer vacation(55 days from 08/0
 
  - remote lesson(material mechanics, micro computer II, fourier analysys)
  - finish the assignment of *fourier analysys*
- - about *code "predict" *:
-  - create slack workspace (and invite 301)
-  - research about CAN network and circuit
+ - about *code "predict"*:
+   - create slack workspace (and invite 301)
+   - research about CAN network and circuit
 
 ### 2020/08/04 tue
