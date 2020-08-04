@@ -21,3 +21,6 @@ Hi there! this repository shows my progress in summer vacation(55 days from 08/0
    - research about CAN network and circuit
 
 ### 2020/08/04 tue
+
+ - finish preparing of assignment *Electronic engineering*
+
