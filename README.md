@@ -24,3 +24,6 @@ Hi there! this repository shows my progress in summer vacation(55 days from 08/0
 
  - finish preparing of assignment *Electronic engineering*
 
+### 2020/08/05 wed
+
+ - order *CAN interface* from Akizuki Denshi
