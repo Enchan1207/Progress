@@ -27,3 +27,5 @@ Hi there! this repository shows my progress in summer vacation(55 days from 08/0
 ### 2020/08/05 wed
 
  - order *CAN interface* from Akizuki Denshi
+ - finish report assignment *Probability and Statistics II*
+ - headache
