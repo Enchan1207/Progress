@@ -1,6 +1,6 @@
 ![Progress](banner.png)
 
-Hi there! this repository shows my progress in summer vacation(55 days from 08/01 to 09/24).  
+Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).  
 
 ## Progress
 
