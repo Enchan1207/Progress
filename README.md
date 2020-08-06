@@ -1,6 +1,6 @@
 ![Progress](banner.png)
 
-Hi there! this repository shows my progress in summer vacation(55 days from 08/01 to 09/24).  
+Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).  
 
 ## Progress
 
@@ -24,3 +24,16 @@ Hi there! this repository shows my progress in summer vacation(55 days from 08/0
 
  - finish preparing of assignment *Electronic engineering*
 
+### 2020/08/05 wed
+
+ - order *CAN interface* from Akizuki Denshi
+ - finish report assignment *Probability and Statistics II*
+ - headache
+
+### 2020/08/06 thu
+
+ - finish report assignment *Electronic control engineering, Probability and Statistics II*
+ - remote lesson(Electronic control engineering, Chinese)
+ - ~care for some cosplay items~
+ - found Python PDF Library: [PyPDF2](https://github.com/mstamy2/PyPDF2)
+ 
