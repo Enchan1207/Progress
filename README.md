@@ -37,3 +37,10 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - ~care for some cosplay items~
  - found Python PDF Library: [PyPDF2](https://github.com/mstamy2/PyPDF2)
  
+### 2020/08/07 fri
+
+ - about *code "predict"*:
+   - discussion for specification decision
+ - remote lesson(Electronics, Engineer ethics)
+ - start report assingnment *Electronics*
+ - ~CD~
