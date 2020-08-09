@@ -52,4 +52,4 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  
 ### 08/09 sun
 
- - report assingnment *Electronics* (spent a day for it 😠)
+ - finished report assingnment *Electronics* (spent a day for it 😠)
