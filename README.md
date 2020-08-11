@@ -63,5 +63,5 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - try io controlling of RPi
  - submit exam *Probability and Statistics II*
- - CAN network circuit
+ - CAN network circuit (can't understand anything)
  
