@@ -53,3 +53,15 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 08/09 sun
 
  - finished report assingnment *Electronics* (spent a day for it 😠)
+
+### 08/10 mon
+
+ - finish exam *Probability and Statistics II*
+ - create Pi case
+ 
+### 08/11 tue
+
+ - try io controlling of RPi
+ - submit exam *Probability and Statistics II*
+ - CAN network circuit
+ 
