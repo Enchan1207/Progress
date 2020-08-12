@@ -65,3 +65,7 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - submit exam *Probability and Statistics II*
  - CAN network circuit (can't understand anything)
  
+### 08/12 wed
+
+ - submit report assignment *Electronics*
+ - CAN network circuit (understand everything perfectly 😎)
