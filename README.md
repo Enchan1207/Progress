@@ -68,4 +68,5 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 08/12 wed
 
  - submit report assignment *Electronics*
- - CAN network circuit (understand everything perfectly 😎)
+ - CAN network circuit (I understood everything perfectly 😎)
+ - found fantastic CAN library (I wanna implement connection protocol using it)
