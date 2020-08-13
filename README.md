@@ -70,3 +70,8 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - submit report assignment *Electronics*
  - CAN network circuit (I understood everything perfectly 😎)
  - found fantastic CAN library (I wanna implement connection protocol using it)
+
+### 08/13 thu
+
+ - create CAN connection circuit module (can't understand anything)
+ - write hex to AVR without arduinoIDE or Atmel Studio (I love AVR <)
