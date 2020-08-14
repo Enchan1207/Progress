@@ -74,4 +74,9 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 08/13 thu
 
  - create CAN connection circuit module (can't understand anything)
- - write hex to AVR without arduinoIDE or Atmel Studio (I love AVR <)
+ - write hex to AVR without arduinoIDE or Atmel Studio (I love AVR <3)
+ 
+### 08/14 fri
+
+ - start report assignment *Engineer ethics*
+ - drifted the sea of web archives (~found old kig fans page~)
