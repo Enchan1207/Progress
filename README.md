@@ -80,3 +80,18 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - start report assignment *Engineer ethics*
  - drifted the sea of web archives (~found old kig fans page~)
+ 
+### 08/15 sat
+
+ - make progress of assignments *enginner ethics*
+ - can connection (CAN'T UNDERSTAND ALL OF WORLD)
+
+### 08/16 sun
+
+ - create portable ATmega328 board (use like Arduino UNO)
+ - can connection (Okay, I understand a little part of CAN. connect with Pi is next step.)
+
+### 08/17 mon
+
+ - create connection between AVR and RPi
+ - found can library for Python
