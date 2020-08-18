@@ -95,3 +95,9 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - create connection between AVR and RPi
  - found can library for Python
+
+### 08/18 tue
+
+ - my first github pages content
+ - CAN Interface script
+ - start to connect github with SSH
