@@ -101,3 +101,16 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - my first github pages content
  - CAN Interface script
  - start to connect github with SSH
+
+### 08/19 wed
+
+ - create [DailyMotd](https://github.com/Enchan1207/DailyMotd)
+ - found CAN C++ Library (I tried it, but it was not less useful than Python-can)
+
+### 08/20 thu
+
+ - report assignment *Enginner ethics*
+
+### 08/21 fri
+
+ - report assignment *Enginner ethics*
