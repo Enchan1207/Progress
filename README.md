@@ -114,3 +114,14 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 08/21 fri
 
  - report assignment *Enginner ethics*
+
+### 08/22 sat
+
+ - report assignment *Enginner ethics*
+
+### 08/23 sun
+
+ - FINISH report assignment *Enginner ethics, micro computer II* (I spent FOUR DAYS)
+ - finish all assignment of summer vacation
+ 
+ 
