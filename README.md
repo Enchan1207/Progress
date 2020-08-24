@@ -124,4 +124,8 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - FINISH report assignment *Enginner ethics, micro computer II* (I spent FOUR DAYS)
  - finish all assignment of summer vacation
  
- 
+### 08/24 mon
+
+ - update data handling received from CAN-bus (at [BreakServer](https://github.com/Enchan1207/BreakServer))
+ - 
+
