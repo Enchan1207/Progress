@@ -128,4 +128,8 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - update data handling received from CAN-bus (at [BreakServer](https://github.com/Enchan1207/BreakServer))
 
+### 08/25 tue
 
+ - create Break Emulator (at [BreakEmulator](https://github.com/Enchan1207/BreakEmulator))
+ 
+ 
