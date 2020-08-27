@@ -132,4 +132,12 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - create Break Emulator (at [BreakEmulator](https://github.com/Enchan1207/BreakEmulator))
  
+ ### 08/26 wed
+
+ - create organization [code-Predict](https://github.com/code-Predict)
+ - change break class properties
+ - prepare to Break Analyse 
+
+
+
  
