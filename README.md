@@ -149,4 +149,7 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - learn about python threading  [PyThreadingEx](https://github.com/Enchan1207/PyThreadingEx)
  
  
+### 08/29 sat
+
+ - try `ctypes` to call function written in C from Python
  
