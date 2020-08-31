@@ -153,3 +153,14 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
  - try `ctypes` to call function written in C from Python
  
+### 08/30 sun
+
+ - CAN-bus Communication using C
+ 
+### 08/31 mon
+
+ - finish SocketCAN Utilities but Python still drop packet (Python you are verrrrrrrrrry SLOW 👎)
+
+### 09/01 tue
+ 
+ -
