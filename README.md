@@ -163,4 +163,9 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
 ### 09/01 tue
  
- -
+ - expect timing of packet loss (result on C: 57 loss / 1048576 packets (about 99.99%))
+ - queue programming (I'm not good at algorithm)
+
+### 09/02 wed
+
+ - 
