@@ -168,4 +168,8 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 
 ### 09/02 wed
 
- - 
+ - multi-thread Queue(I'll implement it in SocketCAN)
+
+### 09/03 thr
+
+ - try phisical can bus (AVR drop 97% packet!!?!?)
