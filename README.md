@@ -173,3 +173,7 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/03 thr
 
  - try phisical can bus (AVR drop 97% packet!!?!?)
+ 
+### 09/04 fri
+
+ - Queue Programming ([Queue](https://github.com/Enchan1207/Queue))
