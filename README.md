@@ -177,3 +177,18 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/04 fri
 
  - Queue Programming ([Queue](https://github.com/Enchan1207/Queue))
+ 
+### 09/05 sat
+
+ - didn't do technical things which can write here.
+
+### 09/06 sun
+
+ - didn't do technical things which can write here.
+ - went starbucks coffee (But the log of Starbucks rewards had already reset. Apparently,  its due was until 09/04...)
+
+### 09/07 mon
+
+ - try [midiUSB](https://github.com/arduino-libraries/MIDIUSB)
+ - mental breaking by suicidal ideation (but it's extremely ordinally for me lol)
+
