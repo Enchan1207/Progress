@@ -192,3 +192,19 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
  - try [midiUSB](https://github.com/arduino-libraries/MIDIUSB)
  - mental breaking by suicidal ideation (but it's extremely ordinally for me lol)
 
+### 09/08 tue
+
+ - convert python source to c
+
+### 09/09 wed
+
+ - get drivers licence
+
+### 09/10 thr
+
+ - got ATTiny2313 (tiny flash and ram but beautifiul pin assignment <3 )
+
+### 09/11 fri
+
+ - VSCode Arduino extension not works well, so I threw some comment to its issues.
+
