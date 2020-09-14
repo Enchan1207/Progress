@@ -207,4 +207,18 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/11 fri
 
  - VSCode Arduino extension not works well, so I threw some comment to its issues.
+ - my OWN first drive
+ - brain kernel panic!!
 
+### 09/12 sat
+
+ - brain kernel panic!!
+
+### 09/13 sun
+
+ - brain kernel panic!!
+ - create discussion paper for progress report meeting
+
+### 09/14 mon
+
+ - create UART library for ATTiny2313 (Arduinos Serial library is verrrrrrrrrrry huge! I wanna more low-level it!)
