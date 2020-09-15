@@ -222,3 +222,7 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/14 mon
 
  - create UART library for ATTiny2313 (Arduinos Serial library is verrrrrrrrrrry huge! I wanna more low-level it!)
+ 
+### 09/15 tue
+
+ - create Midi sound source project with Arduino pro micro (attiny2313 had much less SRAM than I expected...)
