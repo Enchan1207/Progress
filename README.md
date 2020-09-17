@@ -226,3 +226,12 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/15 tue
 
  - create Midi sound source project with Arduino pro micro (attiny2313 had much less SRAM than I expected...)
+
+
+### 09/16 wed
+
+ - A very nice experience that will be helpful in the future (but I can't write about it in this...! )
+
+### 09/17 thr
+
+ - A very nice experience that will be helpful in the future (but I can't write about it in this...! )
