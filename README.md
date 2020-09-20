@@ -235,3 +235,15 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/17 thr
 
  - A very nice experience that will be helpful in the future (but I can't write about it in this...! )
+ 
+### 09/18 fri
+
+ - re-create Schedule *code-Predict*
+
+### 09/20 sat
+
+ - study for examination
+ 
+### 09/21 sun
+
+ - tried [Flask](https://github.com/Enchan1207/FlaskEx) 
