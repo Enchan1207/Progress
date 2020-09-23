@@ -247,3 +247,16 @@ Hi there! I'll write progresses in summer vacation(55 days from 08/01 to 09/24).
 ### 09/21 sun
 
  - tried [Flask](https://github.com/Enchan1207/FlaskEx) 
+ 
+ 
+### 09/22 mon
+
+ - went city-M
+
+## Look back
+
+In the first half, I spent active days in remote lessons, but it seems that my mental condition has deteriorated since I became absorbed in the CAN bus.  
+A little exercise and sunbathing will help you to improve your mental state.  
+IT Engineers tend to stay in the room, but it seems better to move consciously.  
+
+Thank you to all visitors, and strange user who clone it!
